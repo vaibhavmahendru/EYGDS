@@ -1,0 +1,12 @@
+﻿YEARR       SUBJECTT                       WINNER
+----------- ------------------------------ --------------------------------------------------
+1971        Physics                        Dennis Gabor
+1971        Chemistry                      Gerhard Herzberg
+1971        Peace                          Willy Brandt
+1971        Litreature                     Pabola Neruda
+1971        Economics                      Simon Kuznets
+
+(5 rows affected)
+
+
+Completion time: 2022-09-06T18:03:44.1467179+05:30

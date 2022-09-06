@@ -1,0 +1,11 @@
+﻿WINNER
+--------------------------------------------------
+Hannes Alfven
+Louis Neel
+Dennis Gabor
+Johannes Geoeg Bednorz
+
+(4 rows affected)
+
+
+Completion time: 2022-09-06T18:08:08.6054220+05:30

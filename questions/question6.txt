@@ -1,0 +1,19 @@
+﻿YEARR       SUBJECTT                       WINNER                                             COUNTRY                        CATEGORY
+----------- ------------------------------ -------------------------------------------------- ------------------------------ ------------------------------
+1994        Litreature                     Kenzaburo Oe                                       Japan                          Linguist
+1994        Economics                      Reinhard Selten                                     Germany                       Economist
+1987        Chemistry                       Donald J.cram                                     USA                            Scientist
+1987        Chemistry                      Jean-Marine Lehn                                   France                         scientist
+1987        Litreature                     Joseph Brodsky                                     Russia                         Linguist
+1987        Economics                      Robert Solow                                       USA                            Economist
+1971        Chemistry                      Gerhard Herzberg                                    Germany                       Scientist
+1971        Litreature                     Pabola Neruda                                      Chile                          Linguist
+1971        Economics                      Simon Kuznets                                      Russia                         Economist
+1970        Litreature                     Aleksandr Solzhenistyn                             Russia                         Linguist
+1970        Chemistry                      Luis Ferderico                                     France                         scientist
+1970        Economics                      Paul Samuelson                                     USA                            Economist
+
+(12 rows affected)
+
+
+Completion time: 2022-09-06T21:48:36.2618654+05:30

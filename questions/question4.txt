@@ -1,0 +1,8 @@
+﻿YEARR       SUBJECTT
+----------- ------------------------------
+1971        Physics
+
+(1 row affected)
+
+
+Completion time: 2022-09-06T18:05:27.9944000+05:30
