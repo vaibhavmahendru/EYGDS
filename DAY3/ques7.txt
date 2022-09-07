@@ -1,0 +1,10 @@
+﻿salesman_id name                                               city                                               commission
+----------- -------------------------------------------------- -------------------------------------------------- ----------------------
+5001        James Hoog                                         new york                                           0.15
+5002        nail knite                                         paris                                              0.13
+5003        lauson hen                                         delhi                                              0.13
+
+(3 rows affected)
+
+
+Completion time: 2022-09-07T17:22:40.4190446+05:30
