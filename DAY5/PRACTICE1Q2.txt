@@ -1,0 +1,323 @@
+﻿FirstName                                          LastName                                           JobTitle                                           AverageRate           MaximumRate
+-------------------------------------------------- -------------------------------------------------- -------------------------------------------------- --------------------- ---------------------
+Syed                                               Abbas                                              Pacific Sales Manager                              17.7588               125.50
+Kim                                                Abercrombie                                        Production Technician - WC60                       17.7588               125.50
+Hazem                                              Abolrous                                           Quality Assurance Manager                          17.7588               125.50
+Pilar                                              Ackerman                                           Shipping and Receiving Supervisor                  17.7588               125.50
+Jay                                                Adams                                              Production Technician - WC60                       17.7588               125.50
+François                                           Ajenstat                                           Database Administrator                             17.7588               125.50
+Amy                                                Alberts                                            European Sales Manager                             17.7588               125.50
+Greg                                               Alderson                                           Production Technician - WC45                       17.7588               125.50
+Sean                                               Alexander                                          Quality Assurance Technician                       17.7588               125.50
+Gary                                               Altman                                             Facilities Manager                                 17.7588               125.50
+Nancy                                              Anderson                                           Production Technician - WC60                       17.7588               125.50
+Pamela                                             Ansman-Wolfe                                       Sales Representative                               17.7588               125.50
+Zainal                                             Arifin                                             Document Control Manager                           17.7588               125.50
+Dan                                                Bacon                                              Application Specialist                             17.7588               125.50
+Bryan                                              Baker                                              Production Technician - WC60                       17.7588               125.50
+Mary                                               Baker                                              Production Technician - WC10                       17.7588               125.50
+Angela                                             Barbariol                                          Production Technician - WC50                       17.7588               125.50
+David                                              Barber                                             Assistant to the Chief Financial Officer           17.7588               125.50
+Paula                                              Barreto de Mattos                                  Human Resources Manager                            17.7588               125.50
+Wanida                                             Benshoof                                           Marketing Assistant                                17.7588               125.50
+Karen                                              Berg                                               Application Specialist                             17.7588               125.50
+Karen                                              Berge                                              Document Control Assistant                         17.7588               125.50
+Andreas                                            Berglund                                           Quality Assurance Technician                       17.7588               125.50
+Matthias                                           Berndt                                             Shipping and Receiving Clerk                       17.7588               125.50
+Jo                                                 Berry                                              Janitor                                            17.7588               125.50
+Jimmy                                              Bischoff                                           Stocker                                            17.7588               125.50
+Michael                                            Blythe                                             Sales Representative                               17.7588               125.50
+David                                              Bradley                                            Marketing Manager                                  17.7588               125.50
+David                                              Bradley                                            Marketing Manager                                  17.7588               125.50
+David                                              Bradley                                            Marketing Manager                                  17.7588               125.50
+Alan                                               Brewer                                             Scheduling Assistant                               17.7588               125.50
+Eric                                               Brown                                              Production Technician - WC40                       17.7588               125.50
+Jo                                                 Brown                                              Production Supervisor - WC60                       17.7588               125.50
+Kevin                                              Brown                                              Marketing Assistant                                17.7588               125.50
+Janaina                                            Bueno                                              Application Specialist                             17.7588               125.50
+David                                              Campbell                                           Sales Representative                               17.7588               125.50
+John                                               Campbell                                           Production Supervisor - WC60                       17.7588               125.50
+Jun                                                Cao                                                Production Technician - WC50                       17.7588               125.50
+Rob                                                Caron                                              Production Technician - WC40                       17.7588               125.50
+Jillian                                            Carson                                             Sales Representative                               17.7588               125.50
+Andrew                                             Cencini                                            Production Technician - WC45                       17.7588               125.50
+Baris                                              Cetinok                                            Production Technician - WC40                       17.7588               125.50
+Sean                                               Chai                                               Document Control Assistant                         17.7588               125.50
+Sootha                                             Charncherngkha                                     Quality Assurance Technician                       17.7588               125.50
+Hao                                                Chen                                               Human Resources Administrative Assistant           17.7588               125.50
+John                                               Chen                                               Production Technician - WC20                       17.7588               125.50
+Alice                                              Ciccu                                              Production Technician - WC50                       17.7588               125.50
+Pat                                                Coleman                                            Janitor                                            17.7588               125.50
+Peter                                              Connelly                                           Network Administrator                              17.7588               125.50
+Stephanie                                          Conroy                                             Network Manager                                    17.7588               125.50
+Patrick                                            Cook                                               Production Technician - WC40                       17.7588               125.50
+Ryan                                               Cornelsen                                          Production Technician - WC40                       17.7588               125.50
+Ovidiu                                             Cracium                                            Senior Tool Designer                               17.7588               125.50
+Jack                                               Creasey                                            Production Technician - WC40                       17.7588               125.50
+Grant                                              Culbertson                                         Human Resources Administrative Assistant           17.7588               125.50
+Barbara                                            Decker                                             Production Technician - WC20                       17.7588               125.50
+Mary                                               Dempsey                                            Marketing Assistant                                17.7588               125.50
+Thierry                                            D'Hers                                             Tool Designer                                      17.7588               125.50
+Brenda                                             Diaz                                               Production Supervisor - WC40                       17.7588               125.50
+JoLynn                                             Dobney                                             Production Supervisor - WC60                       17.7588               125.50
+Reuben                                             D'sa                                               Production Supervisor - WC40                       17.7588               125.50
+Ed                                                 Dudenhoefer                                        Production Technician - WC60                       17.7588               125.50
+Terri                                              Duffy                                              Vice President of Engineering                      17.7588               125.50
+Maciej                                             Dusza                                              Production Technician - WC60                       17.7588               125.50
+Shelley                                            Dyck                                               Production Technician - WC20                       17.7588               125.50
+Terrence                                           Earls                                              Production Technician - WC20                       17.7588               125.50
+Susan                                              Eaton                                              Stocker                                            17.7588               125.50
+Ruth                                               Ellerbrock                                         Production Technician - WC10                       17.7588               125.50
+Terry                                              Eminhizer                                          Marketing Specialist                               17.7588               125.50
+Michael                                            Entin                                              Production Technician - WC50                       17.7588               125.50
+Gail                                               Erickson                                           Design Engineer                                    17.7588               125.50
+Ebru                                               Ersan                                              Production Technician - WC10                       17.7588               125.50
+Janeth                                             Esteves                                            Production Technician - WC45                       17.7588               125.50
+John                                               Evans                                              Production Technician - WC50                       17.7588               125.50
+Fadi                                               Fakhouri                                           Production Technician - WC20                       17.7588               125.50
+Suroor                                             Fatima                                             Production Technician - WC50                       17.7588               125.50
+Hanying                                            Feng                                               Production Technician - WC20                       17.7588               125.50
+Charles                                            Fitzgerald                                         Production Technician - WC60                       17.7588               125.50
+Kathie                                             Flood                                              Production Technician - WC45                       17.7588               125.50
+Jeffrey                                            Ford                                               Production Technician - WC10                       17.7588               125.50
+Mihail                                             Frintu                                             Production Technician - WC40                       17.7588               125.50
+John                                               Frum                                               Production Technician - WC30                       17.7588               125.50
+John                                               Frum                                               Production Technician - WC30                       17.7588               125.50
+John                                               Frum                                               Production Technician - WC30                       17.7588               125.50
+Janice                                             Galvin                                             Tool Designer                                      17.7588               125.50
+Mary                                               Gibson                                             Marketing Specialist                               17.7588               125.50
+Guy                                                Gilbert                                            Production Technician - WC60                       17.7588               125.50
+Diane                                              Glimp                                              Production Technician - WC10                       17.7588               125.50
+Scott                                              Gode                                               Production Technician - WC45                       17.7588               125.50
+Jossef                                             Goldberg                                           Design Engineer                                    17.7588               125.50
+Brian                                              Goldstein                                          Production Technician - WC40                       17.7588               125.50
+Eric                                               Gubbels                                            Production Supervisor - WC20                       17.7588               125.50
+Erin                                               Hagens                                             Buyer                                              17.7588               125.50
+Don                                                Hall                                               Production Technician - WC50                       17.7588               125.50
+David                                              Hamilton                                           Production Supervisor - WC40                       17.7588               125.50
+James                                              Hamilton                                           Vice President of Production                       17.7588               125.50
+Sariya                                             Harnpadoungsataya                                  Marketing Specialist                               17.7588               125.50
+Mark                                               Harrington                                         Quality Assurance Technician                       17.7588               125.50
+Doris                                              Hartwig                                            Production Technician - WC10                       17.7588               125.50
+Jeff                                               Hay                                                Production Supervisor - WC45                       17.7588               125.50
+Magnus                                             Hedlund                                            Facilities Administrative Assistant                17.7588               125.50
+Gordon                                             Hee                                                Buyer                                              17.7588               125.50
+Brandon                                            Heidepriem                                         Production Technician - WC60                       17.7588               125.50
+Stefen                                             Hesse                                              Production Technician - WC20                       17.7588               125.50
+Sidney                                             Higa                                               Production Technician - WC10                       17.7588               125.50
+Andrew                                             Hill                                               Production Supervisor - WC10                       17.7588               125.50
+Annette                                            Hill                                               Purchasing Assistant                               17.7588               125.50
+Christopher                                        Hill                                               Production Technician - WC10                       17.7588               125.50
+Reinout                                            Hillmann                                           Purchasing Assistant                               17.7588               125.50
+Michael                                            Hines                                              Production Technician - WC20                       17.7588               125.50
+Douglas                                            Hite                                               Production Technician - WC45                       17.7588               125.50
+Bob                                                Hohman                                             Production Technician - WC50                       17.7588               125.50
+Nicole                                             Holliday                                           Production Technician - WC40                       17.7588               125.50
+Kevin                                              Homer                                              Production Technician - WC10                       17.7588               125.50
+Russell                                            Hunter                                             Production Technician - WC50                       17.7588               125.50
+Marc                                               Ingle                                              Production Technician - WC30                       17.7588               125.50
+Marc                                               Ingle                                              Production Technician - WC30                       17.7588               125.50
+Marc                                               Ingle                                              Production Technician - WC30                       17.7588               125.50
+Shu                                                Ito                                                Sales Representative                               17.7588               125.50
+Stephen                                            Jiang                                              North American Sales Manager                       17.7588               125.50
+Barry                                              Johnson                                            Production Technician - WC10                       17.7588               125.50
+David                                              Johnson                                            Production Technician - WC30                       17.7588               125.50
+David                                              Johnson                                            Production Technician - WC30                       17.7588               125.50
+David                                              Johnson                                            Production Technician - WC30                       17.7588               125.50
+Willis                                             Johnson                                            Recruiter                                          17.7588               125.50
+Wendy                                              Kahn                                               Finance Manager                                    17.7588               125.50
+Sandeep                                            Kaliyath                                           Production Technician - WC40                       17.7588               125.50
+John                                               Kane                                               Production Technician - WC10                       17.7588               125.50
+Lori                                               Kane                                               Production Supervisor - WC45                       17.7588               125.50
+Bonnie                                             Kearney                                            Production Technician - WC10                       17.7588               125.50
+Kendall                                            Keil                                               Production Technician - WC50                       17.7588               125.50
+Elizabeth                                          Keyser                                             Production Technician - WC50                       17.7588               125.50
+Karan                                              Khanna                                             Production Technician - WC60                       17.7588               125.50
+Tengiz                                             Kharatishvili                                      Control Specialist                                 17.7588               125.50
+Shane                                              Kim                                                Production Supervisor - WC45                       17.7588               125.50
+Russell                                            King                                               Production Technician - WC30                       17.7588               125.50
+Russell                                            King                                               Production Technician - WC30                       17.7588               125.50
+Russell                                            King                                               Production Technician - WC30                       17.7588               125.50
+Christian                                          Kleinerman                                         Maintenance Supervisor                             17.7588               125.50
+Reed                                               Koch                                               Production Technician - WC30                       17.7588               125.50
+Reed                                               Koch                                               Production Technician - WC30                       17.7588               125.50
+Reed                                               Koch                                               Production Technician - WC30                       17.7588               125.50
+Kirk                                               Koenigsbauer                                       Production Technician - WC45                       17.7588               125.50
+Eugene                                             Kogan                                              Production Technician - WC60                       17.7588               125.50
+Paul                                               Komosinski                                         Production Technician - WC40                       17.7588               125.50
+James                                              Kramer                                             Production Technician - WC60                       17.7588               125.50
+Mindaugas                                          Krapauskas                                         Production Technician - WC50                       17.7588               125.50
+Peter                                              Krebs                                              Production Control Manager                         17.7588               125.50
+Vamsi                                              Kuppa                                              Shipping and Receiving Clerk                       17.7588               125.50
+Eric                                               Kurjan                                             Buyer                                              17.7588               125.50
+Brian                                              LaMee                                              Scheduling Assistant                               17.7588               125.50
+Rebecca                                            Laszlo                                             Production Technician - WC60                       17.7588               125.50
+David                                              Lawrence                                           Production Technician - WC30                       17.7588               125.50
+David                                              Lawrence                                           Production Technician - WC30                       17.7588               125.50
+David                                              Lawrence                                           Production Technician - WC30                       17.7588               125.50
+Frank                                              Lee                                                Production Technician - WC40                       17.7588               125.50
+Kitti                                              Lertpiriyasuwat                                    Production Technician - WC50                       17.7588               125.50
+George                                             Li                                                 Production Technician - WC30                       17.7588               125.50
+George                                             Li                                                 Production Technician - WC30                       17.7588               125.50
+George                                             Li                                                 Production Technician - WC30                       17.7588               125.50
+Yuhong                                             Li                                                 Production Supervisor - WC20                       17.7588               125.50
+David                                              Liu                                                Accounts Manager                                   17.7588               125.50
+Jinghao                                            Liu                                                Production Supervisor - WC50                       17.7588               125.50
+Kevin                                              Liu                                                Production Technician - WC40                       17.7588               125.50
+Brian                                              Lloyd                                              Production Technician - WC40                       17.7588               125.50
+Kok-Ho                                             Loh                                                Production Supervisor - WC50                       17.7588               125.50
+Jose                                               Lugo                                               Production Technician - WC60                       17.7588               125.50
+Vidur                                              Luthra                                             Recruiter                                          17.7588               125.50
+Stuart                                             Macrae                                             Janitor                                            17.7588               125.50
+Pete                                               Male                                               Production Technician - WC50                       17.7588               125.50
+Gabe                                               Mares                                              Production Technician - WC40                       17.7588               125.50
+Diane                                              Margheim                                           Research and Development Engineer                  17.7588               125.50
+Benjamin                                           Martin                                             Production Technician - WC30                       17.7588               125.50
+Benjamin                                           Martin                                             Production Technician - WC30                       17.7588               125.50
+Benjamin                                           Martin                                             Production Technician - WC30                       17.7588               125.50
+Mindy                                              Martin                                             Benefits Specialist                                17.7588               125.50
+Frank                                              Martinez                                           Production Technician - WC40                       17.7588               125.50
+Steve                                              Masters                                            Production Technician - WC60                       17.7588               125.50
+Gigi                                               Matthew                                            Research and Development Engineer                  17.7588               125.50
+Taylor                                             Maxwell                                            Production Supervisor - WC50                       17.7588               125.50
+Mark                                               McArthur                                           Production Technician - WC60                       17.7588               125.50
+Katie                                              McAskill-White                                     Production Supervisor - WC20                       17.7588               125.50
+Alejandro                                          McGuel                                             Production Technician - WC40                       17.7588               125.50
+Yvonne                                             McKay                                              Production Technician - WC45                       17.7588               125.50
+Linda                                              Meisner                                            Buyer                                              17.7588               125.50
+Tete                                               Mensa-Annan                                        Sales Representative                               17.7588               125.50
+Susan                                              Metters                                            Production Technician - WC30                       17.7588               125.50
+Ramesh                                             Meyyappan                                          Application Specialist                             17.7588               125.50
+Thomas                                             Michaels                                           Production Technician - WC60                       17.7588               125.50
+Jan                                                Miksovsky                                          Production Technician - WC30                       17.7588               125.50
+Ben                                                Miller                                             Buyer                                              17.7588               125.50
+Dylan                                              Miller                                             Research and Development Manager                   17.7588               125.50
+Frank                                              Miller                                             Production Technician - WC50                       17.7588               125.50
+Nitin                                              Mirchandani                                        Production Technician - WC20                       17.7588               125.50
+Linda                                              Mitchell                                           Sales Representative                               17.7588               125.50
+Shammi                                             Mohamed                                            Production Technician - WC40                       17.7588               125.50
+Suchitra                                           Mohan                                              Production Technician - WC60                       17.7588               125.50
+Barbara                                            Moreland                                           Accountant                                         17.7588               125.50
+Linda                                              Moschell                                           Production Technician - WC50                       17.7588               125.50
+Zheng                                              Mu                                                 Production Supervisor - WC10                       17.7588               125.50
+Stuart                                             Munson                                             Production Technician - WC45                       17.7588               125.50
+Ken                                                Myer                                               Production Technician - WC40                       17.7588               125.50
+Paula                                              Nartker                                            Production Technician - WC40                       17.7588               125.50
+Lorraine                                           Nay                                                Production Technician - WC40                       17.7588               125.50
+Alex                                               Nayberg                                            Production Technician - WC45                       17.7588               125.50
+Merav                                              Netz                                               Production Technician - WC30                       17.7588               125.50
+Belinda                                            Newman                                             Production Technician - WC45                       17.7588               125.50
+Chad                                               Niswonger                                          Production Technician - WC50                       17.7588               125.50
+Laura                                              Norman                                             Chief Financial Officer                            17.7588               125.50
+Laura                                              Norman                                             Chief Financial Officer                            17.7588               125.50
+Laura                                              Norman                                             Chief Financial Officer                            17.7588               125.50
+Chris                                              Norred                                             Control Specialist                                 17.7588               125.50
+Fred                                               Northup                                            Production Technician - WC40                       17.7588               125.50
+Tawana                                             Nusbaum                                            Production Technician - WC40                       17.7588               125.50
+Fukiko                                             Ogisu                                              Buyer                                              17.7588               125.50
+Chris                                              Okelberry                                          Production Technician - WC60                       17.7588               125.50
+David                                              Ortiz                                              Production Technician - WC60                       17.7588               125.50
+Michiko                                            Osada                                              Production Technician - WC30                       17.7588               125.50
+Jae                                                Pak                                                Sales Representative                               17.7588               125.50
+Rajesh                                             Patel                                              Production Technician - WC40                       17.7588               125.50
+Michael                                            Patten                                             Production Technician - WC50                       17.7588               125.50
+Frank                                              Pellow                                             Buyer                                              17.7588               125.50
+Lori                                               Penor                                              Janitor                                            17.7588               125.50
+Lionel                                             Penuchot                                           Production Technician - WC45                       17.7588               125.50
+Cristian                                           Petculescu                                         Production Supervisor - WC10                       17.7588               125.50
+Carol                                              Philips                                            Production Technician - WC30                       17.7588               125.50
+Deborah                                            Poe                                                Accounts Receivable Specialist                     17.7588               125.50
+Carole                                             Poland                                             Production Technician - WC30                       17.7588               125.50
+Houman                                             Pournasseh                                         Production Technician - WC50                       17.7588               125.50
+Chris                                              Preston                                            Production Technician - WC45                       17.7588               125.50
+Michael                                            Raheem                                             Research and Development Manager                   17.7588               125.50
+Kim                                                Ralls                                              Stocker                                            17.7588               125.50
+Cynthia                                            Randall                                            Production Supervisor - WC30                       17.7588               125.50
+Linda                                              Randall                                            Production Technician - WC20                       17.7588               125.50
+Arvind                                             Rao                                                Buyer                                              17.7588               125.50
+Simon                                              Rapier                                             Production Technician - WC60                       17.7588               125.50
+Michael                                            Ray                                                Production Supervisor - WC30                       17.7588               125.50
+Sandra                                             Reátegui Alayo                                     Production Technician - WC30                       17.7588               125.50
+Randy                                              Reeves                                             Production Technician - WC60                       17.7588               125.50
+Tsvi                                               Reiter                                             Sales Representative                               17.7588               125.50
+Bjorn                                              Rettig                                             Production Technician - WC30                       17.7588               125.50
+Jack                                               Richins                                            Production Supervisor - WC30                       17.7588               125.50
+Michael                                            Rothkugel                                          Production Technician - WC40                       17.7588               125.50
+Robert                                             Rounthwaite                                        Production Technician - WC45                       17.7588               125.50
+Andy                                               Ruth                                               Production Technician - WC30                       17.7588               125.50
+Lane                                               Sacksteder                                         Production Technician - WC20                       17.7588               125.50
+Sharon                                             Salavaria                                          Design Engineer                                    17.7588               125.50
+Ivo                                                Salmre                                             Production Technician - WC20                       17.7588               125.50
+Raymond                                            Sam                                                Production Technician - WC20                       17.7588               125.50
+Mandar                                             Samant                                             Production Technician - WC50                       17.7588               125.50
+Prasanna                                           Samarawickrama                                     Production Technician - WC20                       17.7588               125.50
+Ken                                                Sánchez                                            Chief Executive Officer                            17.7588               125.50
+Mikael                                             Sandberg                                           Buyer                                              17.7588               125.50
+José                                               Saraiva                                            Sales Representative                               17.7588               125.50
+Jim                                                Scardelis                                          Production Technician - WC50                       17.7588               125.50
+Mike                                               Seamans                                            Accountant                                         17.7588               125.50
+Steven                                             Selikoff                                           Production Technician - WC30                       17.7588               125.50
+Rostislav                                          Shabalin                                           Production Technician - WC30                       17.7588               125.50
+Ashvini                                            Sharma                                             Network Administrator                              17.7588               125.50
+Janet                                              Sheperdigian                                       Accounts Payable Specialist                        17.7588               125.50
+Margie                                             Shoop                                              Production Technician - WC60                       17.7588               125.50
+Britta                                             Simon                                              Production Technician - WC60                       17.7588               125.50
+Paul                                               Singh                                              Production Technician - WC20                       17.7588               125.50
+Denise                                             Smith                                              Production Technician - WC50                       17.7588               125.50
+Samantha                                           Smith                                              Production Technician - WC20                       17.7588               125.50
+Lolan                                              Song                                               Production Technician - WC50                       17.7588               125.50
+Anibal                                             Sousa                                              Production Technician - WC20                       17.7588               125.50
+Candy                                              Spoon                                              Accounts Receivable Specialist                     17.7588               125.50
+Betsy                                              Stadick                                            Production Technician - WC10                       17.7588               125.50
+Annik                                              Stahl                                              Production Technician - WC60                       17.7588               125.50
+Laura                                              Steele                                             Production Technician - WC45                       17.7588               125.50
+Min                                                Su                                                 Production Technician - WC20                       17.7588               125.50
+Michael                                            Sullivan                                           Senior Design Engineer                             17.7588               125.50
+Krishna                                            Sunkammurali                                       Production Technician - WC20                       17.7588               125.50
+Roberto                                            Tamburello                                         Engineering Manager                                17.7588               125.50
+Sameer                                             Tejani                                             Production Technician - WC50                       17.7588               125.50
+Diane                                              Tibbott                                            Production Technician - WC50                       17.7588               125.50
+Danielle                                           Tiedt                                              Production Technician - WC10                       17.7588               125.50
+Hung-Fu                                            Ting                                               Production Technician - WC20                       17.7588               125.50
+Dragan                                             Tomic                                              Accounts Payable Specialist                        17.7588               125.50
+Jean                                               Trenary                                            Information Services Manager                       17.7588               125.50
+Lynn                                               Tsoflias                                           Sales Representative                               17.7588               125.50
+Olinda                                             Turner                                             Production Technician - WC20                       17.7588               125.50
+Sairaj                                             Uddin                                              Scheduling Assistant                               17.7588               125.50
+Rachel                                             Valdez                                             Sales Representative                               17.7588               125.50
+Sylvester                                          Valdez                                             Production Technician - WC20                       17.7588               125.50
+Tom                                                Vande Velde                                        Production Technician - WC10                       17.7588               125.50
+Michael                                            Vanderhyde                                         Production Technician - WC30                       17.7588               125.50
+Garrett                                            Vargas                                             Sales Representative                               17.7588               125.50
+Ranjit                                             Varkey Chudukatil                                  Sales Representative                               17.7588               125.50
+William                                            Vong                                               Scheduling Assistant                               17.7588               125.50
+William                                            Vong                                               Scheduling Assistant                               17.7588               125.50
+William                                            Vong                                               Scheduling Assistant                               17.7588               125.50
+Rob                                                Walters                                            Senior Tool Designer                               17.7588               125.50
+Rob                                                Walters                                            Senior Tool Designer                               17.7588               125.50
+Rob                                                Walters                                            Senior Tool Designer                               17.7588               125.50
+Bryan                                              Walton                                             Accounts Receivable Specialist                     17.7588               125.50
+Jian Shuo                                          Wang                                               Production Technician - WC30                       17.7588               125.50
+Jason                                              Watters                                            Production Technician - WC30                       17.7588               125.50
+Patrick                                            Wedge                                              Production Technician - WC10                       17.7588               125.50
+Brian                                              Welcker                                            Vice President of Sales                            17.7588               125.50
+Jill                                               Williams                                           Marketing Specialist                               17.7588               125.50
+Dan                                                Wilson                                             Database Administrator                             17.7588               125.50
+John                                               Wood                                               Marketing Specialist                               17.7588               125.50
+Sheela                                             Word                                               Purchasing Manager                                 17.7588               125.50
+Sheela                                             Word                                               Purchasing Manager                                 17.7588               125.50
+Sheela                                             Word                                               Purchasing Manager                                 17.7588               125.50
+A. Scott                                           Wright                                             Master Scheduler                                   17.7588               125.50
+Peng                                               Wu                                                 Quality Assurance Supervisor                       17.7588               125.50
+David                                              Yalovsky                                           Production Technician - WC30                       17.7588               125.50
+Garrett                                            Young                                              Production Technician - WC30                       17.7588               125.50
+Nuan                                               Yu                                                 Production Technician - WC50                       17.7588               125.50
+Gary                                               Yukish                                             Production Technician - WC40                       17.7588               125.50
+Eugene                                             Zabokritski                                        Production Technician - WC30                       17.7588               125.50
+Kimberly                                           Zimmerman                                          Production Technician - WC10                       17.7588               125.50
+Michael                                            Zwilling                                           Production Technician - WC60                       17.7588               125.50
+
+(316 rows affected)
+
+
+Completion time: 2022-09-09T17:17:03.5275242+05:30

@@ -1,0 +1,323 @@
+﻿FirstName                                          LastName                                           JobTitle                                           AverageRate
+-------------------------------------------------- -------------------------------------------------- -------------------------------------------------- ---------------------
+Syed                                               Abbas                                              Pacific Sales Manager                              17.7588
+Kim                                                Abercrombie                                        Production Technician - WC60                       17.7588
+Hazem                                              Abolrous                                           Quality Assurance Manager                          17.7588
+Pilar                                              Ackerman                                           Shipping and Receiving Supervisor                  17.7588
+Jay                                                Adams                                              Production Technician - WC60                       17.7588
+François                                           Ajenstat                                           Database Administrator                             17.7588
+Amy                                                Alberts                                            European Sales Manager                             17.7588
+Greg                                               Alderson                                           Production Technician - WC45                       17.7588
+Sean                                               Alexander                                          Quality Assurance Technician                       17.7588
+Gary                                               Altman                                             Facilities Manager                                 17.7588
+Nancy                                              Anderson                                           Production Technician - WC60                       17.7588
+Pamela                                             Ansman-Wolfe                                       Sales Representative                               17.7588
+Zainal                                             Arifin                                             Document Control Manager                           17.7588
+Dan                                                Bacon                                              Application Specialist                             17.7588
+Bryan                                              Baker                                              Production Technician - WC60                       17.7588
+Mary                                               Baker                                              Production Technician - WC10                       17.7588
+Angela                                             Barbariol                                          Production Technician - WC50                       17.7588
+David                                              Barber                                             Assistant to the Chief Financial Officer           17.7588
+Paula                                              Barreto de Mattos                                  Human Resources Manager                            17.7588
+Wanida                                             Benshoof                                           Marketing Assistant                                17.7588
+Karen                                              Berg                                               Application Specialist                             17.7588
+Karen                                              Berge                                              Document Control Assistant                         17.7588
+Andreas                                            Berglund                                           Quality Assurance Technician                       17.7588
+Matthias                                           Berndt                                             Shipping and Receiving Clerk                       17.7588
+Jo                                                 Berry                                              Janitor                                            17.7588
+Jimmy                                              Bischoff                                           Stocker                                            17.7588
+Michael                                            Blythe                                             Sales Representative                               17.7588
+David                                              Bradley                                            Marketing Manager                                  17.7588
+David                                              Bradley                                            Marketing Manager                                  17.7588
+David                                              Bradley                                            Marketing Manager                                  17.7588
+Alan                                               Brewer                                             Scheduling Assistant                               17.7588
+Eric                                               Brown                                              Production Technician - WC40                       17.7588
+Jo                                                 Brown                                              Production Supervisor - WC60                       17.7588
+Kevin                                              Brown                                              Marketing Assistant                                17.7588
+Janaina                                            Bueno                                              Application Specialist                             17.7588
+David                                              Campbell                                           Sales Representative                               17.7588
+John                                               Campbell                                           Production Supervisor - WC60                       17.7588
+Jun                                                Cao                                                Production Technician - WC50                       17.7588
+Rob                                                Caron                                              Production Technician - WC40                       17.7588
+Jillian                                            Carson                                             Sales Representative                               17.7588
+Andrew                                             Cencini                                            Production Technician - WC45                       17.7588
+Baris                                              Cetinok                                            Production Technician - WC40                       17.7588
+Sean                                               Chai                                               Document Control Assistant                         17.7588
+Sootha                                             Charncherngkha                                     Quality Assurance Technician                       17.7588
+Hao                                                Chen                                               Human Resources Administrative Assistant           17.7588
+John                                               Chen                                               Production Technician - WC20                       17.7588
+Alice                                              Ciccu                                              Production Technician - WC50                       17.7588
+Pat                                                Coleman                                            Janitor                                            17.7588
+Peter                                              Connelly                                           Network Administrator                              17.7588
+Stephanie                                          Conroy                                             Network Manager                                    17.7588
+Patrick                                            Cook                                               Production Technician - WC40                       17.7588
+Ryan                                               Cornelsen                                          Production Technician - WC40                       17.7588
+Ovidiu                                             Cracium                                            Senior Tool Designer                               17.7588
+Jack                                               Creasey                                            Production Technician - WC40                       17.7588
+Grant                                              Culbertson                                         Human Resources Administrative Assistant           17.7588
+Barbara                                            Decker                                             Production Technician - WC20                       17.7588
+Mary                                               Dempsey                                            Marketing Assistant                                17.7588
+Thierry                                            D'Hers                                             Tool Designer                                      17.7588
+Brenda                                             Diaz                                               Production Supervisor - WC40                       17.7588
+JoLynn                                             Dobney                                             Production Supervisor - WC60                       17.7588
+Reuben                                             D'sa                                               Production Supervisor - WC40                       17.7588
+Ed                                                 Dudenhoefer                                        Production Technician - WC60                       17.7588
+Terri                                              Duffy                                              Vice President of Engineering                      17.7588
+Maciej                                             Dusza                                              Production Technician - WC60                       17.7588
+Shelley                                            Dyck                                               Production Technician - WC20                       17.7588
+Terrence                                           Earls                                              Production Technician - WC20                       17.7588
+Susan                                              Eaton                                              Stocker                                            17.7588
+Ruth                                               Ellerbrock                                         Production Technician - WC10                       17.7588
+Terry                                              Eminhizer                                          Marketing Specialist                               17.7588
+Michael                                            Entin                                              Production Technician - WC50                       17.7588
+Gail                                               Erickson                                           Design Engineer                                    17.7588
+Ebru                                               Ersan                                              Production Technician - WC10                       17.7588
+Janeth                                             Esteves                                            Production Technician - WC45                       17.7588
+John                                               Evans                                              Production Technician - WC50                       17.7588
+Fadi                                               Fakhouri                                           Production Technician - WC20                       17.7588
+Suroor                                             Fatima                                             Production Technician - WC50                       17.7588
+Hanying                                            Feng                                               Production Technician - WC20                       17.7588
+Charles                                            Fitzgerald                                         Production Technician - WC60                       17.7588
+Kathie                                             Flood                                              Production Technician - WC45                       17.7588
+Jeffrey                                            Ford                                               Production Technician - WC10                       17.7588
+Mihail                                             Frintu                                             Production Technician - WC40                       17.7588
+John                                               Frum                                               Production Technician - WC30                       17.7588
+John                                               Frum                                               Production Technician - WC30                       17.7588
+John                                               Frum                                               Production Technician - WC30                       17.7588
+Janice                                             Galvin                                             Tool Designer                                      17.7588
+Mary                                               Gibson                                             Marketing Specialist                               17.7588
+Guy                                                Gilbert                                            Production Technician - WC60                       17.7588
+Diane                                              Glimp                                              Production Technician - WC10                       17.7588
+Scott                                              Gode                                               Production Technician - WC45                       17.7588
+Jossef                                             Goldberg                                           Design Engineer                                    17.7588
+Brian                                              Goldstein                                          Production Technician - WC40                       17.7588
+Eric                                               Gubbels                                            Production Supervisor - WC20                       17.7588
+Erin                                               Hagens                                             Buyer                                              17.7588
+Don                                                Hall                                               Production Technician - WC50                       17.7588
+David                                              Hamilton                                           Production Supervisor - WC40                       17.7588
+James                                              Hamilton                                           Vice President of Production                       17.7588
+Sariya                                             Harnpadoungsataya                                  Marketing Specialist                               17.7588
+Mark                                               Harrington                                         Quality Assurance Technician                       17.7588
+Doris                                              Hartwig                                            Production Technician - WC10                       17.7588
+Jeff                                               Hay                                                Production Supervisor - WC45                       17.7588
+Magnus                                             Hedlund                                            Facilities Administrative Assistant                17.7588
+Gordon                                             Hee                                                Buyer                                              17.7588
+Brandon                                            Heidepriem                                         Production Technician - WC60                       17.7588
+Stefen                                             Hesse                                              Production Technician - WC20                       17.7588
+Sidney                                             Higa                                               Production Technician - WC10                       17.7588
+Andrew                                             Hill                                               Production Supervisor - WC10                       17.7588
+Annette                                            Hill                                               Purchasing Assistant                               17.7588
+Christopher                                        Hill                                               Production Technician - WC10                       17.7588
+Reinout                                            Hillmann                                           Purchasing Assistant                               17.7588
+Michael                                            Hines                                              Production Technician - WC20                       17.7588
+Douglas                                            Hite                                               Production Technician - WC45                       17.7588
+Bob                                                Hohman                                             Production Technician - WC50                       17.7588
+Nicole                                             Holliday                                           Production Technician - WC40                       17.7588
+Kevin                                              Homer                                              Production Technician - WC10                       17.7588
+Russell                                            Hunter                                             Production Technician - WC50                       17.7588
+Marc                                               Ingle                                              Production Technician - WC30                       17.7588
+Marc                                               Ingle                                              Production Technician - WC30                       17.7588
+Marc                                               Ingle                                              Production Technician - WC30                       17.7588
+Shu                                                Ito                                                Sales Representative                               17.7588
+Stephen                                            Jiang                                              North American Sales Manager                       17.7588
+Barry                                              Johnson                                            Production Technician - WC10                       17.7588
+David                                              Johnson                                            Production Technician - WC30                       17.7588
+David                                              Johnson                                            Production Technician - WC30                       17.7588
+David                                              Johnson                                            Production Technician - WC30                       17.7588
+Willis                                             Johnson                                            Recruiter                                          17.7588
+Wendy                                              Kahn                                               Finance Manager                                    17.7588
+Sandeep                                            Kaliyath                                           Production Technician - WC40                       17.7588
+John                                               Kane                                               Production Technician - WC10                       17.7588
+Lori                                               Kane                                               Production Supervisor - WC45                       17.7588
+Bonnie                                             Kearney                                            Production Technician - WC10                       17.7588
+Kendall                                            Keil                                               Production Technician - WC50                       17.7588
+Elizabeth                                          Keyser                                             Production Technician - WC50                       17.7588
+Karan                                              Khanna                                             Production Technician - WC60                       17.7588
+Tengiz                                             Kharatishvili                                      Control Specialist                                 17.7588
+Shane                                              Kim                                                Production Supervisor - WC45                       17.7588
+Russell                                            King                                               Production Technician - WC30                       17.7588
+Russell                                            King                                               Production Technician - WC30                       17.7588
+Russell                                            King                                               Production Technician - WC30                       17.7588
+Christian                                          Kleinerman                                         Maintenance Supervisor                             17.7588
+Reed                                               Koch                                               Production Technician - WC30                       17.7588
+Reed                                               Koch                                               Production Technician - WC30                       17.7588
+Reed                                               Koch                                               Production Technician - WC30                       17.7588
+Kirk                                               Koenigsbauer                                       Production Technician - WC45                       17.7588
+Eugene                                             Kogan                                              Production Technician - WC60                       17.7588
+Paul                                               Komosinski                                         Production Technician - WC40                       17.7588
+James                                              Kramer                                             Production Technician - WC60                       17.7588
+Mindaugas                                          Krapauskas                                         Production Technician - WC50                       17.7588
+Peter                                              Krebs                                              Production Control Manager                         17.7588
+Vamsi                                              Kuppa                                              Shipping and Receiving Clerk                       17.7588
+Eric                                               Kurjan                                             Buyer                                              17.7588
+Brian                                              LaMee                                              Scheduling Assistant                               17.7588
+Rebecca                                            Laszlo                                             Production Technician - WC60                       17.7588
+David                                              Lawrence                                           Production Technician - WC30                       17.7588
+David                                              Lawrence                                           Production Technician - WC30                       17.7588
+David                                              Lawrence                                           Production Technician - WC30                       17.7588
+Frank                                              Lee                                                Production Technician - WC40                       17.7588
+Kitti                                              Lertpiriyasuwat                                    Production Technician - WC50                       17.7588
+George                                             Li                                                 Production Technician - WC30                       17.7588
+George                                             Li                                                 Production Technician - WC30                       17.7588
+George                                             Li                                                 Production Technician - WC30                       17.7588
+Yuhong                                             Li                                                 Production Supervisor - WC20                       17.7588
+David                                              Liu                                                Accounts Manager                                   17.7588
+Jinghao                                            Liu                                                Production Supervisor - WC50                       17.7588
+Kevin                                              Liu                                                Production Technician - WC40                       17.7588
+Brian                                              Lloyd                                              Production Technician - WC40                       17.7588
+Kok-Ho                                             Loh                                                Production Supervisor - WC50                       17.7588
+Jose                                               Lugo                                               Production Technician - WC60                       17.7588
+Vidur                                              Luthra                                             Recruiter                                          17.7588
+Stuart                                             Macrae                                             Janitor                                            17.7588
+Pete                                               Male                                               Production Technician - WC50                       17.7588
+Gabe                                               Mares                                              Production Technician - WC40                       17.7588
+Diane                                              Margheim                                           Research and Development Engineer                  17.7588
+Benjamin                                           Martin                                             Production Technician - WC30                       17.7588
+Benjamin                                           Martin                                             Production Technician - WC30                       17.7588
+Benjamin                                           Martin                                             Production Technician - WC30                       17.7588
+Mindy                                              Martin                                             Benefits Specialist                                17.7588
+Frank                                              Martinez                                           Production Technician - WC40                       17.7588
+Steve                                              Masters                                            Production Technician - WC60                       17.7588
+Gigi                                               Matthew                                            Research and Development Engineer                  17.7588
+Taylor                                             Maxwell                                            Production Supervisor - WC50                       17.7588
+Mark                                               McArthur                                           Production Technician - WC60                       17.7588
+Katie                                              McAskill-White                                     Production Supervisor - WC20                       17.7588
+Alejandro                                          McGuel                                             Production Technician - WC40                       17.7588
+Yvonne                                             McKay                                              Production Technician - WC45                       17.7588
+Linda                                              Meisner                                            Buyer                                              17.7588
+Tete                                               Mensa-Annan                                        Sales Representative                               17.7588
+Susan                                              Metters                                            Production Technician - WC30                       17.7588
+Ramesh                                             Meyyappan                                          Application Specialist                             17.7588
+Thomas                                             Michaels                                           Production Technician - WC60                       17.7588
+Jan                                                Miksovsky                                          Production Technician - WC30                       17.7588
+Ben                                                Miller                                             Buyer                                              17.7588
+Dylan                                              Miller                                             Research and Development Manager                   17.7588
+Frank                                              Miller                                             Production Technician - WC50                       17.7588
+Nitin                                              Mirchandani                                        Production Technician - WC20                       17.7588
+Linda                                              Mitchell                                           Sales Representative                               17.7588
+Shammi                                             Mohamed                                            Production Technician - WC40                       17.7588
+Suchitra                                           Mohan                                              Production Technician - WC60                       17.7588
+Barbara                                            Moreland                                           Accountant                                         17.7588
+Linda                                              Moschell                                           Production Technician - WC50                       17.7588
+Zheng                                              Mu                                                 Production Supervisor - WC10                       17.7588
+Stuart                                             Munson                                             Production Technician - WC45                       17.7588
+Ken                                                Myer                                               Production Technician - WC40                       17.7588
+Paula                                              Nartker                                            Production Technician - WC40                       17.7588
+Lorraine                                           Nay                                                Production Technician - WC40                       17.7588
+Alex                                               Nayberg                                            Production Technician - WC45                       17.7588
+Merav                                              Netz                                               Production Technician - WC30                       17.7588
+Belinda                                            Newman                                             Production Technician - WC45                       17.7588
+Chad                                               Niswonger                                          Production Technician - WC50                       17.7588
+Laura                                              Norman                                             Chief Financial Officer                            17.7588
+Laura                                              Norman                                             Chief Financial Officer                            17.7588
+Laura                                              Norman                                             Chief Financial Officer                            17.7588
+Chris                                              Norred                                             Control Specialist                                 17.7588
+Fred                                               Northup                                            Production Technician - WC40                       17.7588
+Tawana                                             Nusbaum                                            Production Technician - WC40                       17.7588
+Fukiko                                             Ogisu                                              Buyer                                              17.7588
+Chris                                              Okelberry                                          Production Technician - WC60                       17.7588
+David                                              Ortiz                                              Production Technician - WC60                       17.7588
+Michiko                                            Osada                                              Production Technician - WC30                       17.7588
+Jae                                                Pak                                                Sales Representative                               17.7588
+Rajesh                                             Patel                                              Production Technician - WC40                       17.7588
+Michael                                            Patten                                             Production Technician - WC50                       17.7588
+Frank                                              Pellow                                             Buyer                                              17.7588
+Lori                                               Penor                                              Janitor                                            17.7588
+Lionel                                             Penuchot                                           Production Technician - WC45                       17.7588
+Cristian                                           Petculescu                                         Production Supervisor - WC10                       17.7588
+Carol                                              Philips                                            Production Technician - WC30                       17.7588
+Deborah                                            Poe                                                Accounts Receivable Specialist                     17.7588
+Carole                                             Poland                                             Production Technician - WC30                       17.7588
+Houman                                             Pournasseh                                         Production Technician - WC50                       17.7588
+Chris                                              Preston                                            Production Technician - WC45                       17.7588
+Michael                                            Raheem                                             Research and Development Manager                   17.7588
+Kim                                                Ralls                                              Stocker                                            17.7588
+Cynthia                                            Randall                                            Production Supervisor - WC30                       17.7588
+Linda                                              Randall                                            Production Technician - WC20                       17.7588
+Arvind                                             Rao                                                Buyer                                              17.7588
+Simon                                              Rapier                                             Production Technician - WC60                       17.7588
+Michael                                            Ray                                                Production Supervisor - WC30                       17.7588
+Sandra                                             Reátegui Alayo                                     Production Technician - WC30                       17.7588
+Randy                                              Reeves                                             Production Technician - WC60                       17.7588
+Tsvi                                               Reiter                                             Sales Representative                               17.7588
+Bjorn                                              Rettig                                             Production Technician - WC30                       17.7588
+Jack                                               Richins                                            Production Supervisor - WC30                       17.7588
+Michael                                            Rothkugel                                          Production Technician - WC40                       17.7588
+Robert                                             Rounthwaite                                        Production Technician - WC45                       17.7588
+Andy                                               Ruth                                               Production Technician - WC30                       17.7588
+Lane                                               Sacksteder                                         Production Technician - WC20                       17.7588
+Sharon                                             Salavaria                                          Design Engineer                                    17.7588
+Ivo                                                Salmre                                             Production Technician - WC20                       17.7588
+Raymond                                            Sam                                                Production Technician - WC20                       17.7588
+Mandar                                             Samant                                             Production Technician - WC50                       17.7588
+Prasanna                                           Samarawickrama                                     Production Technician - WC20                       17.7588
+Ken                                                Sánchez                                            Chief Executive Officer                            17.7588
+Mikael                                             Sandberg                                           Buyer                                              17.7588
+José                                               Saraiva                                            Sales Representative                               17.7588
+Jim                                                Scardelis                                          Production Technician - WC50                       17.7588
+Mike                                               Seamans                                            Accountant                                         17.7588
+Steven                                             Selikoff                                           Production Technician - WC30                       17.7588
+Rostislav                                          Shabalin                                           Production Technician - WC30                       17.7588
+Ashvini                                            Sharma                                             Network Administrator                              17.7588
+Janet                                              Sheperdigian                                       Accounts Payable Specialist                        17.7588
+Margie                                             Shoop                                              Production Technician - WC60                       17.7588
+Britta                                             Simon                                              Production Technician - WC60                       17.7588
+Paul                                               Singh                                              Production Technician - WC20                       17.7588
+Denise                                             Smith                                              Production Technician - WC50                       17.7588
+Samantha                                           Smith                                              Production Technician - WC20                       17.7588
+Lolan                                              Song                                               Production Technician - WC50                       17.7588
+Anibal                                             Sousa                                              Production Technician - WC20                       17.7588
+Candy                                              Spoon                                              Accounts Receivable Specialist                     17.7588
+Betsy                                              Stadick                                            Production Technician - WC10                       17.7588
+Annik                                              Stahl                                              Production Technician - WC60                       17.7588
+Laura                                              Steele                                             Production Technician - WC45                       17.7588
+Min                                                Su                                                 Production Technician - WC20                       17.7588
+Michael                                            Sullivan                                           Senior Design Engineer                             17.7588
+Krishna                                            Sunkammurali                                       Production Technician - WC20                       17.7588
+Roberto                                            Tamburello                                         Engineering Manager                                17.7588
+Sameer                                             Tejani                                             Production Technician - WC50                       17.7588
+Diane                                              Tibbott                                            Production Technician - WC50                       17.7588
+Danielle                                           Tiedt                                              Production Technician - WC10                       17.7588
+Hung-Fu                                            Ting                                               Production Technician - WC20                       17.7588
+Dragan                                             Tomic                                              Accounts Payable Specialist                        17.7588
+Jean                                               Trenary                                            Information Services Manager                       17.7588
+Lynn                                               Tsoflias                                           Sales Representative                               17.7588
+Olinda                                             Turner                                             Production Technician - WC20                       17.7588
+Sairaj                                             Uddin                                              Scheduling Assistant                               17.7588
+Rachel                                             Valdez                                             Sales Representative                               17.7588
+Sylvester                                          Valdez                                             Production Technician - WC20                       17.7588
+Tom                                                Vande Velde                                        Production Technician - WC10                       17.7588
+Michael                                            Vanderhyde                                         Production Technician - WC30                       17.7588
+Garrett                                            Vargas                                             Sales Representative                               17.7588
+Ranjit                                             Varkey Chudukatil                                  Sales Representative                               17.7588
+William                                            Vong                                               Scheduling Assistant                               17.7588
+William                                            Vong                                               Scheduling Assistant                               17.7588
+William                                            Vong                                               Scheduling Assistant                               17.7588
+Rob                                                Walters                                            Senior Tool Designer                               17.7588
+Rob                                                Walters                                            Senior Tool Designer                               17.7588
+Rob                                                Walters                                            Senior Tool Designer                               17.7588
+Bryan                                              Walton                                             Accounts Receivable Specialist                     17.7588
+Jian Shuo                                          Wang                                               Production Technician - WC30                       17.7588
+Jason                                              Watters                                            Production Technician - WC30                       17.7588
+Patrick                                            Wedge                                              Production Technician - WC10                       17.7588
+Brian                                              Welcker                                            Vice President of Sales                            17.7588
+Jill                                               Williams                                           Marketing Specialist                               17.7588
+Dan                                                Wilson                                             Database Administrator                             17.7588
+John                                               Wood                                               Marketing Specialist                               17.7588
+Sheela                                             Word                                               Purchasing Manager                                 17.7588
+Sheela                                             Word                                               Purchasing Manager                                 17.7588
+Sheela                                             Word                                               Purchasing Manager                                 17.7588
+A. Scott                                           Wright                                             Master Scheduler                                   17.7588
+Peng                                               Wu                                                 Quality Assurance Supervisor                       17.7588
+David                                              Yalovsky                                           Production Technician - WC30                       17.7588
+Garrett                                            Young                                              Production Technician - WC30                       17.7588
+Nuan                                               Yu                                                 Production Technician - WC50                       17.7588
+Gary                                               Yukish                                             Production Technician - WC40                       17.7588
+Eugene                                             Zabokritski                                        Production Technician - WC30                       17.7588
+Kimberly                                           Zimmerman                                          Production Technician - WC10                       17.7588
+Michael                                            Zwilling                                           Production Technician - WC60                       17.7588
+
+(316 rows affected)
+
+
+Completion time: 2022-09-09T17:16:40.6096453+05:30
