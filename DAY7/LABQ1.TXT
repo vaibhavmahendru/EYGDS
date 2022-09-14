@@ -1,0 +1,17 @@
+﻿name                                               listprice
+-------------------------------------------------- ---------------------
+Road-150 Red, 62                                   3578.27
+Road-150 Red, 44                                   3578.27
+Road-150 Red, 48                                   3578.27
+Road-150 Red, 52                                   3578.27
+Road-150 Red, 56                                   3578.27
+Mountain-100 Silver, 38                            3399.99
+Mountain-100 Silver, 42                            3399.99
+Mountain-100 Silver, 44                            3399.99
+Mountain-100 Silver, 48                            3399.99
+Mountain-100 Black, 38                             3374.99
+
+(10 rows affected)
+
+
+Completion time: 2022-09-14T06:59:40.8449241+05:30

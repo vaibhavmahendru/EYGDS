@@ -1,0 +1,17 @@
+﻿name                                               listprice
+-------------------------------------------------- ---------------------
+HL Road Frame - Red, 56                            1431.50
+HL Road Frame - Red, 52                            1431.50
+HL Road Frame - Red, 48                            1431.50
+HL Road Frame - Red, 44                            1431.50
+HL Road Frame - Red, 62                            1431.50
+HL Road Frame - Red, 58                            1431.50
+HL Road Frame - Black, 58                          1431.50
+HL Road Frame - Black, 62                          1431.50
+HL Road Frame - Black, 44                          1431.50
+HL Road Frame - Black, 48                          1431.50
+
+(10 rows affected)
+
+
+Completion time: 2022-09-14T07:00:46.1080819+05:30
